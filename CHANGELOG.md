@@ -10,3 +10,4 @@
 - Added CLI argument parsing
 - Multi-threaded request handler
 - Introduced basic user-agent spoofing
+## v4.1 - Logging and latency tracking added
